@@ -1,0 +1,16 @@
+C:\Users\Matheus\Desktop\Projeto Cadastro\Cadastro\Cadastro\Cadastro\bin\Debug\Cadastro.exe.config
+C:\Users\Matheus\Desktop\Projeto Cadastro\Cadastro\Cadastro\Cadastro\bin\Debug\Cadastro.exe
+C:\Users\Matheus\Desktop\Projeto Cadastro\Cadastro\Cadastro\Cadastro\bin\Debug\Cadastro.pdb
+C:\Users\Matheus\Desktop\Projeto Cadastro\Cadastro\Cadastro\Cadastro\bin\Debug\Cadastro.xml
+C:\Users\Matheus\Desktop\Projeto Cadastro\Cadastro\Cadastro\Cadastro\obj\Debug\Cadastro.vbprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\Projeto Cadastro\Cadastro\Cadastro\Cadastro\obj\Debug\Cadastro.frmCadBanco.resources
+C:\Users\Matheus\Desktop\Projeto Cadastro\Cadastro\Cadastro\Cadastro\obj\Debug\Cadastro.Resources.resources
+C:\Users\Matheus\Desktop\Projeto Cadastro\Cadastro\Cadastro\Cadastro\obj\Debug\Cadastro.vbproj.GenerateResource.cache
+C:\Users\Matheus\Desktop\Projeto Cadastro\Cadastro\Cadastro\Cadastro\obj\Debug\Cadastro.vbproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Projeto Cadastro\Cadastro\Cadastro\Cadastro\obj\Debug\Cadastro.exe
+C:\Users\Matheus\Desktop\Projeto Cadastro\Cadastro\Cadastro\Cadastro\obj\Debug\Cadastro.xml
+C:\Users\Matheus\Desktop\Projeto Cadastro\Cadastro\Cadastro\Cadastro\obj\Debug\Cadastro.pdb
+C:\Users\Matheus\Desktop\Projeto Cadastro\Cadastro\Cadastro\Cadastro\obj\Debug\Cadastro.frmLogin.resources
+C:\Users\Matheus\Desktop\Projeto Cadastro\Cadastro\Cadastro\Cadastro\obj\Debug\Cadastro.frmPrincipal.resources
+C:\Users\Matheus\Desktop\Projeto Cadastro\Cadastro\Cadastro\Cadastro\obj\Debug\Cadastro.frmCadAcesso.resources
+C:\Users\Matheus\Desktop\Projeto Cadastro\Cadastro\Cadastro\Cadastro\obj\Debug\Cadastro.frmDados.resources

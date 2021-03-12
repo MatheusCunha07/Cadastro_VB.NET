@@ -1,0 +1,59 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Cadastro
+</name>
+</assembly>
+<members>
+<member name="T:Cadastro.My.Resources.Resources">
+<summary>
+  Uma classe de recurso de tipo de alta segurança, para pesquisar cadeias de caracteres localizadas etc.
+</summary>
+</member>
+<member name="P:Cadastro.My.Resources.Resources.ResourceManager">
+<summary>
+  Retorna a instância de ResourceManager armazenada em cache usada por essa classe.
+</summary>
+</member>
+<member name="P:Cadastro.My.Resources.Resources.Culture">
+<summary>
+  Substitui a propriedade CurrentUICulture do thread atual para todas as
+  pesquisas de recursos que usam essa classe de recurso de tipo de alta segurança.
+</summary>
+</member>
+<member name="P:Cadastro.My.Resources.Resources.ligar">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cadastro.My.Resources.Resources.usuario">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cadastro.My.Resources.Resources.usuario__2_">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="M:Cadastro.clsCRUD.InsertUser(System.String,System.String)">
+ <summary>
+ 
+ </summary>
+ <param name="Usuario">É o cadastro do usuario</param>
+ <param name="Senha">É a senha do usuario</param>
+ <returns></returns>
+</member>
+<member name="M:Cadastro.clsCRUD.InsertDados(System.String,System.String,System.String,System.String)">
+ <summary>
+ 
+ </summary>
+ <param name="Nome">Nome do usuario</param>
+ <param name="Cpf">cpf do usuario</param>
+ <param name="Telefone"> telefone do usuario</param>
+ <param name="Cidade">cidade do usuario</param>
+ <returns></returns>
+</member>
+</members>
+</doc>
